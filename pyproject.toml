@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "ppt-shuffle"
 version = "0.1.0"
-description = ""
+description = "Shuffle PowerPoint slides (to make flashcards). Function very similarly to pdf-shuffle."
 authors = ["patarapolw <patarapolw@gmail.com>"]
 
 [tool.poetry.dependencies]
