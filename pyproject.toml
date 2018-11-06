@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "ppt-shuffle"
+version = "0.1.0"
+description = ""
+authors = ["patarapolw <patarapolw@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "*"
+python-pptx = "^0.6.15"
+flask = "^1.0"
+gunicorn = "^19.9"
+
+[tool.poetry.dev-dependencies]
